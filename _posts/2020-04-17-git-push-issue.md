@@ -10,6 +10,6 @@ tags: git issue
 这是因为在github远程仓库修改了代码而本地没有修改产生的冲突。需要先把远程库同步到本地再push
 
 ```
-git pull --rebase origion gh-pages/master
-git push origin gh-pages/master
+git pull --rebase origin gh-pages
+git push origin gh-pages
 ```
