@@ -6,4 +6,4 @@
 
 [jekyll官方文档](http://jekyllcn.com/docs/home/)
 
-[NeXT主题文档](http://theme-next.simpleyyt.com/getting-started.html)
+[NexT主题文档](http://theme-next.simpleyyt.com/getting-started.html)
