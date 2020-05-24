@@ -24,4 +24,4 @@ tags: git issue
 $ ssh-agent bash
 $ ssh-add ~/.ssh/id_rsa
 ```
-搞定！
+Done！
