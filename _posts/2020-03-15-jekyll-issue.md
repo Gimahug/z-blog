@@ -24,3 +24,5 @@ repository: Simpleyyt/jekyll-theme-next
 
 ![img](https://Gimahug.github.io/z-blog/assets/images/post-image/pics.jpg)
 
+此时在本地服务器打开页面可以看到图片，push到github后需要把{{site.url}}改成pages实际生成的网站地址。
+
