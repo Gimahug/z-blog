@@ -26,3 +26,11 @@ repository: Simpleyyt/jekyll-theme-next
 
 此时在本地服务器打开页面可以看到图片，push到github后需要把site.url改成pages实际生成的网站地址。
 
+## git push出现error:failed to push some refs to
+这是因为在github远程仓库修改了代码而本地没有修改产生的冲突。需要先把远程库同步到本地再push
+
+```
+git pull --rebase origion gh-pages/master
+git push origin gh-pages/master
+```
+
