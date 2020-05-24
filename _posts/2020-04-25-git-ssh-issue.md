@@ -3,7 +3,7 @@ title: git配置公钥后仍需手动输入用户名密码
 description: 
 categories:
  - 博客
-tags: git,issue
+tags: git issue
 ---
 
 [->参考博客1](https://blog.csdn.net/dreamstone_xiaoqw/article/details/78355873)，[->参考博客2](https://blog.csdn.net/u012150360/article/details/93710781)

@@ -3,7 +3,7 @@ title: git push时出现error:failed to push some refs to
 description: 
 categories:
  - 博客
-tags: git,issue
+tags: git issue
 ---
 
 [->参考博客](https://www.jianshu.com/p/c6f2e1ca2999)
