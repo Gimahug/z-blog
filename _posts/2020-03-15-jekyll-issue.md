@@ -22,5 +22,5 @@ repository: Simpleyyt/jekyll-theme-next
 ## 在博文里插入图片
 将图片保存在/assets/images/post-image里，如pics.jpg。然后在md文件里用相对路径引用：
 
-![img]({{ site.url }}/assets/images/post-image/pics.jpg)
+![img](https://Gimahug.github.io/z-blog/assets/images/post-image/pics.jpg)
 
